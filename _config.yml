@@ -64,7 +64,7 @@ content:
         sub_title: Php Developer
         caption: Jun 2018 - Mar 2019
         quote: >
-          Solving problems on learning English by mobile application. The awesome applications helps student impove listening, speaking, reading skill.
+          Solving problems on learning English. Create awesome applications helps student impove listening, speaking, reading skill.
         description: | # this will include new lines to allow paragraphs
           I was in a team of 5 people (backend, front-end, system). My task is discuss database design, create api for WebApp and MobileApp, write some small tool for admin, teacher to improve efficiency in student management, create landing page for new product.
         content:
@@ -76,7 +76,13 @@ content:
         quote: >
           Top 3 biggest Google Partner in Viet Nam. Adsplus is a digital Marketing Agency successfully deployed more than 10,000 communication campaigns for more than 2000 businesses in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          I was in a backend team of 3 people.
+          I was in a backend team of 3 people. My task is like any other programmer : "coding". Furthermore, I was learn a large amount of business, how a company operates.
+          Some project of me in adsplus:
+          - Quotation in 5 minutes: A awesome project help sales reduce time create an quotaion from 2-6h to 5-15 minutes. 
+          - Customer health score: Put your google ads account input, it will show account's score, Where is the strong, where is the weak, what needs to be improved?
+          - Lead pool: A mini CRM for SME company. This project have all base function what company need to take care customer, save contact and history email, sms, call. Plan the campaign remarketing.
+          - Sms hero: This is a service of Leadpool. It help other project set api to send sms, config and set permission for api.
+          Techstack I use : <mark>Java Spring boot</mark> <mark>Mysql</mark><mark>MongoDb</mark><mark>Microservices</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
