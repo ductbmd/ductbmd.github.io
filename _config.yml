@@ -70,7 +70,8 @@ content:
           Solving problems on learning English. Create awesome applications helps student impove listening, speaking, reading skill.
         description: | # this will include new lines to allow paragraphs
           I was in a team of 5 people (backend, front-end, system). My task is discuss database design, create api for WebApp and MobileApp, write some small tool for admin, teacher to improve efficiency in student management, create landing page for new product.
-        content:
+        
+          Techstack I use : <mark>PHP laravel</mark> <mark>PHP lumen</mark> <mark>CodeIgniter</mark>
       - layout: left
         title: Adsplus Company
         link: adsplus.vn
@@ -145,7 +146,7 @@ content:
         caption: 2016 - 2020
         sub_title: Software Engineer
         quote: >
-          Established in 1956, Hanoi University of Science and Technology (HUST) is the first prestigious and influential multidisciplinary technical university in Vietnam.
+          Established in 1956, Hanoi University of Science and Technology (HUST) is the first prestigious and influential multidisciplinary technical university in VietNam.
         description: | # this will include new lines to allow paragraphs
           During my time at HUST I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
