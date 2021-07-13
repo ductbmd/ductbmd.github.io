@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 #twitter_username: facespics
-github_username:  sproogen
+github_username:  ductbmd
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: tobaminhduc1
@@ -34,6 +34,9 @@ additional_links:
 - title: githubCV
   icon: fas fa-globe
   url: https://ductbmd.github.io/
+- title: skype
+  icon: fa fa-skype
+  url: live:minhduc98kl
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
