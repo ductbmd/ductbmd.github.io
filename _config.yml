@@ -36,7 +36,7 @@ additional_links:
   url: https://ductbmd.github.io/
 - title: skype
   icon: fa fa-skype
-  url: live:minhduc98kl
+  url: https://join.skype.com/invite/emtW4JQsEWjH
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -92,7 +92,7 @@ content:
         title: VMG Company
         link: vmgmedia.vn
         sub_title: Java Developer
-        caption: Jun 2018 - Mar 2019
+        caption: Mar 2020 - Mar 2021
         quote: >
           Vietnam's telecommunication services market is a potential technological market. The rapid development of information technology requires the telecommunications and communications industry to constantly change and make difference.
 
@@ -105,6 +105,20 @@ content:
           - Infosky: A data service (KYC, eKYC, CAC). It's realy awesome project. 
 
           Techstack I use : <mark>Java Spring boot</mark> <mark>Java VertX</mark> <mark>Oracle Database</mark> <mark>Microservices</mark> <mark>Nginx</mark>
+      - layout: left
+        title: Tripi Company
+        link: tripi.vn
+        sub_title: Backend Developer
+        caption: Apr 2021 - Now
+        quote: >
+          Top 1 Biggest Travel Technology in VietNam.
+
+          With desire and passion, Tripi strives to become the core foundation for prosperity in the tourism business in the Southeast Asian market, enhancing Vietnam's position in the international arena.
+        description: | # this will include new lines to allow paragraphs
+          This is my position now.
+          My projects in Tripi:
+          - Flight service: The core booking flight service for other backend project. It's the biggest system I've worked, I learnt many thing about java core and how to optimize my project run faster. Feeling happy for working here ♥.
+          Techstack I use : <mark>Java Spring boot</mark> <mark>Java Play</mark> <mark>Mysql</mark> <mark>Microservices</mark> <mark>Google PubSub</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
