@@ -144,7 +144,9 @@ content:
       - layout: left
         title: Ha Noi University of Science and Technology
         caption: 2016 - 2020
-        sub_title: Software Engineer
+        sub_title: | # this will include new lines to allow paragraphs
+          Software Engineer
+          Degree classification : Very good
         quote: >
           Established in 1956, Hanoi University of Science and Technology (HUST) is the first prestigious and influential multidisciplinary technical university in VietNam.
         description: | # this will include new lines to allow paragraphs
