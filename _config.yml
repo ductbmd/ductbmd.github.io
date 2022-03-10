@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: To Ba Minh Duc (Finn)
-title: Full Stack Developer
+title: Full Stack Blockchain Developer
 email: duc.tbmd@gmail.com
 website: www.github.com/ductbmd
 
@@ -73,7 +73,7 @@ content:
         
           Techstack I use : <mark>PHP laravel</mark> <mark>PHP lumen</mark> <mark>CodeIgniter</mark>
       - layout: left
-        title: Adsplus Company
+        title: Adsplus JSC
         link: adsplus.vn
         sub_title: Java Developer
         caption: Mar 2019 - Mar 2020
@@ -90,7 +90,7 @@ content:
 
           Techstack I use : <mark>Java Spring boot</mark> <mark>Mysql</mark> <mark>MongoDb</mark> <mark>Microservices</mark>
       - layout: left
-        title: VMG Company
+        title: VMG JSC
         link: vmgmedia.vn
         sub_title: Java Developer
         caption: Mar 2020 - Mar 2021
@@ -107,19 +107,49 @@ content:
 
           Techstack I use : <mark>Java Spring boot</mark> <mark>Java VertX</mark> <mark>Oracle Database</mark> <mark>Microservices</mark> <mark>Nginx</mark>
       - layout: left
-        title: Tripi Company
+        title: Tripi JSC
         link: tripi.vn
         sub_title: Backend Developer
-        caption: Apr 2021 - Now
+        caption: Apr 2021 - Sep 2021
         quote: >
           Top 1 Biggest Travel Technology in VietNam.
 
           With desire and passion, Tripi strives to become the core foundation for prosperity in the tourism business in the Southeast Asian market, enhancing Vietnam's position in the international arena.
         description: | # this will include new lines to allow paragraphs
-          This is my position now.
+          
           My projects in Tripi:
-          - Flight service: The core booking flight service for other backend project. It's the biggest system I've worked, I learnt many thing about java core and how to optimize my project run faster. Feeling happy for working here ♥.
+          - Flight service: The core booking flight service for other backend project. It's the biggest system I've worked then, I learnt many thing about java core and how to optimize my project run faster. 
+          I was learnt many bussiness of aviation service, traveling. My teamleader is very very smart and I learnt very much from him (thinking, coding style, system,...)
+          Feeling happy for working here ♥.
+
           Techstack I use : <mark>Java Spring boot</mark> <mark>Java Play</mark> <mark>Mysql</mark> <mark>Microservices</mark> <mark>Google PubSub</mark>
+      - layout: left
+        title: One mount group JSC
+        link: onemount.com
+        sub_title: Backend Developer
+        caption: Aug 2021 - Jan 2022
+        quote: >
+          One Mount Group was established with the ambition to create the largest technology ecosystem in Vietnam, providing solutions and services throughout the value chain, from financial services, distribution, real estate and retail.
+        description: | # this will include new lines to allow paragraphs
+          
+          My projects in OneMount:
+          - Payment service: The core payment service of group, I was join the team to working with core banking T24, FScore. Join from start to design and develop Loan Service provide merchant loan solution.
+          One mount is a open and dynamic environment with young colleagues, we work together very smoothly, It wasn't long but I had a lot of good memories here.
+
+          Techstack I use : <mark>Java Spring boot</mark> <mark>Mysql</mark> <mark>Microservices</mark> <mark>Kafka</mark>
+      - layout: left
+        title: MoonLabs TechCompany
+        link: 
+        sub_title: Blockchain Developer
+        caption: Jan 2022 - Now
+        quote: >
+          This is a start up to with the ambition to create a ecosystem onblockchain with GameFi, Metaverse.
+        description: | # this will include new lines to allow paragraphs
+          This is my position now
+          My projects in Moonlabs: Lucis NFT market place: I'm doing it now and you will see it soon ^^. ☺☻
+          - 
+
+          Techstack I use : <mark>Solidity</mark> <mark>NodeJs</mark> <mark>Mysql</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
